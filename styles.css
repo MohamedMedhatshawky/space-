@@ -1,0 +1,48 @@
+body {
+    color: #2a2626;
+    
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight:bold;
+    font-size: 24px;
+
+}
+
+
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  
+.terms {
+    margin-top:400px;
+    color: aliceblue;
+    font-size: 14px;
+}
+
+
+
+  #main-logo {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 8px 14px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+   
